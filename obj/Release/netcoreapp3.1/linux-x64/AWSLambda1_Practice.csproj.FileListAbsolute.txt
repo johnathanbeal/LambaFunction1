@@ -1,0 +1,12 @@
+C:\Github\AWSLambda1_Practice\bin\Release\netcoreapp3.1\linux-x64\AWSLambda1_Practice.deps.json
+C:\Github\AWSLambda1_Practice\bin\Release\netcoreapp3.1\linux-x64\AWSLambda1_Practice.runtimeconfig.json
+C:\Github\AWSLambda1_Practice\bin\Release\netcoreapp3.1\linux-x64\AWSLambda1_Practice.runtimeconfig.dev.json
+C:\Github\AWSLambda1_Practice\bin\Release\netcoreapp3.1\linux-x64\AWSLambda1_Practice.dll
+C:\Github\AWSLambda1_Practice\bin\Release\netcoreapp3.1\linux-x64\AWSLambda1_Practice.pdb
+C:\Github\AWSLambda1_Practice\obj\Release\netcoreapp3.1\linux-x64\AWSLambda1_Practice.csprojAssemblyReference.cache
+C:\Github\AWSLambda1_Practice\obj\Release\netcoreapp3.1\linux-x64\AWSLambda1_Practice.csproj.CoreCompileInputs.cache
+C:\Github\AWSLambda1_Practice\obj\Release\netcoreapp3.1\linux-x64\AWSLambda1_Practice.AssemblyInfoInputs.cache
+C:\Github\AWSLambda1_Practice\obj\Release\netcoreapp3.1\linux-x64\AWSLambda1_Practice.AssemblyInfo.cs
+C:\Github\AWSLambda1_Practice\obj\Release\netcoreapp3.1\linux-x64\AWSLambda1_Practice.dll
+C:\Github\AWSLambda1_Practice\obj\Release\netcoreapp3.1\linux-x64\AWSLambda1_Practice.pdb
+C:\Github\AWSLambda1_Practice\obj\Release\netcoreapp3.1\linux-x64\AWSLambda1_Practice.genruntimeconfig.cache
